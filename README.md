@@ -1,40 +1,80 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abayomi Daniel Adewuyi
-==============================================================================================================================================
+# Abayomi Daniel Adewuyi
 
-Full Stack - AI / Data Scientist | Machine Learning Expert | Backend Developer
-------------------------------------------------------------------------------
-
-I am a First-Class Physics graduate passionate about technology. I specialize in Full Stack development, AI, and Data Science. Proficient in both frontend and backend, I craft seamless applications. As a Machine Learning Expert, I delve into innovative solutions, from predictive models to natural language processing. With a solid backend foundation, I optimize server-side performance. I'm an advocate for collaboration, contributing actively to open source. Join me on this exciting journey as we explore the possibilities of physics and technology. Check out my repositories for past work and ongoing projects. Let's connect and innovate together!
-
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [adewuyiaby@gmail.com](mailto:adewuyiaby@gmail.com)
-* 🚀  I'm currently working on [Breast Cancer Prediction Using Clinical Attributes](http://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)
-* 🧠  I'm learning Rust, TypeScript, Deep Learning Algorithms
-* 🤝  I'm open to collaborating on various projects related to AI, machine learning, and backend development.
-* ⚡  I'm always looking for opportunities to expand my knowledge and skills in AI and machine learning, and I'm open to collaborating on any projects that align with my expertise.
-
-<a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/JewishDaniels?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://www.digitalocean.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg" width="36" height="36" alt="Digital Ocean" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated gif"  width="100" />
 </p>
 
 
+## Full Stack AI/Data Scientist | Machine Learning Expert | Backend Developer
+
+A highly skilled Data Science Engineer with expertise in **Applied Artificial Intelligence**, **database management**, and **full-stack development**. I specialize in crafting innovative solutions using machine learning, data analysis, and robust backend systems. My experience spans across various industries, consistently delivering high-quality, impactful results. I'm passionate about open-source contributions, fostering collaboration, and always pushing the boundaries of physics and technology.
+
+### Key Highlights
+
+*   **🌍 Based in:** Nigeria
+*   **✉️ Email:** [adewuyiaby@gmail.com](mailto:adewuyiaby@gmail.com)
+*   **💻 Currently Working On:** [Breast Cancer Prediction using Clinical Attributes](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)
+*   **🧠 Learning:** Rust, TypeScript, Deep Learning Algorithms
+*   **🤝 Open To:** Collaborating on AI, Machine Learning, and Backend Development projects.
+
+<a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/JewishDaniels?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" alt="Twitter Badge" />
+</a>
+
+### Core Competencies
+*   **Artificial Intelligence:** Machine Learning, MLOps, NLP, Statistical Modeling, Monte Carlo Simulation, Deep Learning Algorithms
+*   **Full-Stack Development:** JavaScript (Next.js, React), Python (Flask), Node.js, RESTful APIs, Websocket Communication
+*   **Data Analysis:** Exploratory Data Analysis (EDA), Data Visualization (Power BI, Tableau, Seaborn, Matplotlib), Data Manipulation & Transformation
+*   **Database Management:** SQL, PostgreSQL, Docker (CI/CD)
+*   **Languages:** Python, JavaScript, R, C++, PHP, Rust, TypeScript
+*   **Libraries & Frameworks:** TensorFlow, Pandas, Scikit-learn, NumPy, PyTorch, NLTK
+
+<br>
+
+### Featured Projects
+Here are a few of my standout projects. See [my repositories](https://github.com/AdewuyiDaniels?tab=repositories) for more.
+
+*   **[DataWorks: Empowering Users with Tailored Insights](https://github.com/AdewuyiDaniels):**  An ongoing project with an engineered Flask API facilitating intuitive data uploads and bespoke analytics in the Data Warehouse with NLP capabilities for intuitive task categorization and user query understanding.
+*   **[Breast Cancer Prediction from Clinical Attributes](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction):**  A Machine Learning model to predict breast cancer with 88% accuracy based on clinical attributes.
+*   **[Ticketing and Inventory System](https://github.com/AdewuyiDaniels):** Developed a web application using Next.js, optimizing IT issue tracking and asset management processes.
+<br>
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AdewuyiDaniels" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abayomiadewuyidaniel/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@adewuyiaby" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://www.github.com/AdewuyiDaniels" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/abayomiadewuyidaniel/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+  </a>
+    <a href="http://www.medium.com/@adewuyiaby" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
+  </a>
+  <a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer">
+     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
+  </a>
+</p>
+
+<br>
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <a href="http://www.github.com/AdewuyiDaniels">
+    <img src="https://github-readme-stats.vercel.app/api?username=AdewuyiDaniels&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AdewuyiDaniels's GitHub stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/AdewuyiDaniels"><img src="https://github-readme-stats.vercel.app/api?username=AdewuyiDaniels&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AdewuyiDaniels's GitHub stats" /></a>
+<p align="center">
+   <a href="http://www.github.com/AdewuyiDaniels">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdewuyiDaniels&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
+  </a>
+</p>
 
-<a href="http://www.github.com/AdewuyiDaniels"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AdewuyiDaniels&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/AdewuyiDaniels" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdewuyiDaniels&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <a href="https://github.com/AdewuyiDaniels" align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdewuyiDaniels&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  </a>
+</p>
