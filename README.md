@@ -1,80 +1,89 @@
-# Abayomi Daniel Adewuyi
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Abayomi Daniel Adewuyi 👋</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Animated gif"  width="100" />
-</p>
-
-
-## Full Stack AI/Data Scientist | Machine Learning Expert | Backend Developer
-
-A highly skilled Data Science Engineer with expertise in **Applied Artificial Intelligence**, **database management**, and **full-stack development**. I specialize in crafting innovative solutions using machine learning, data analysis, and robust backend systems. My experience spans across various industries, consistently delivering high-quality, impactful results. I'm passionate about open-source contributions, fostering collaboration, and always pushing the boundaries of physics and technology.
-
-### Key Highlights
-
-*   **🌍 Based in:** Nigeria
-*   **✉️ Email:** [adewuyiaby@gmail.com](mailto:adewuyiaby@gmail.com)
-*   **💻 Currently Working On:** [Breast Cancer Prediction using Clinical Attributes](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)
-*   **🧠 Learning:** Rust, TypeScript, Deep Learning Algorithms
-*   **🤝 Open To:** Collaborating on AI, Machine Learning, and Backend Development projects.
-
-<a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/twitter/follow/JewishDaniels?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000" alt="Twitter Badge" />
-</a>
-
-### Core Competencies
-*   **Artificial Intelligence:** Machine Learning, MLOps, NLP, Statistical Modeling, Monte Carlo Simulation, Deep Learning Algorithms
-*   **Full-Stack Development:** JavaScript (Next.js, React), Python (Flask), Node.js, RESTful APIs, Websocket Communication
-*   **Data Analysis:** Exploratory Data Analysis (EDA), Data Visualization (Power BI, Tableau, Seaborn, Matplotlib), Data Manipulation & Transformation
-*   **Database Management:** SQL, PostgreSQL, Docker (CI/CD)
-*   **Languages:** Python, JavaScript, R, C++, PHP, Rust, TypeScript
-*   **Libraries & Frameworks:** TensorFlow, Pandas, Scikit-learn, NumPy, PyTorch, NLTK
-
-<br>
-
-### Featured Projects
-Here are a few of my standout projects. See [my repositories](https://github.com/AdewuyiDaniels?tab=repositories) for more.
-
-*   **[DataWorks: Empowering Users with Tailored Insights](https://github.com/AdewuyiDaniels):**  An ongoing project with an engineered Flask API facilitating intuitive data uploads and bespoke analytics in the Data Warehouse with NLP capabilities for intuitive task categorization and user query understanding.
-*   **[Breast Cancer Prediction from Clinical Attributes](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction):**  A Machine Learning model to predict breast cancer with 88% accuracy based on clinical attributes.
-*   **[Ticketing and Inventory System](https://github.com/AdewuyiDaniels):** Developed a web application using Next.js, optimizing IT issue tracking and asset management processes.
-<br>
-
-### Socials
-
-<p align="left">
-  <a href="https://www.github.com/AdewuyiDaniels" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/abayomiadewuyidaniel/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-  </a>
-    <a href="http://www.medium.com/@adewuyiaby" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" />
-  </a>
-  <a href="https://www.x.com/JewishDaniels" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" />
-  </a>
-</p>
-
-<br>
-
-### Badges
-
-<p align="center">
-  <a href="http://www.github.com/AdewuyiDaniels">
-    <img src="https://github-readme-stats.vercel.app/api?username=AdewuyiDaniels&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="AdewuyiDaniels's GitHub stats" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" alt="Animated gif"/>
 </p>
 
 <p align="center">
-   <a href="http://www.github.com/AdewuyiDaniels">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdewuyiDaniels&stroke=ffffff&background=000000&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats" />
-  </a>
+  <b>Full Stack AI Engineer | Deputy CTO | Backend Developer</b><br>
+  Building intelligent systems and leading tech strategy across Data, AI, and Infrastructure.
 </p>
 
+---
+
+## 🧠 About Me
+
+I'm a results-driven **Machine Learning Engineer** and **Backend Specialist** with deep expertise in **Applied AI**, **ML Ops**, and **Data-Driven Systems**. With a strong background in software architecture and innovation leadership, I focus on building scalable, intelligent solutions for real-world problems — especially across **Africa's unique data landscapes**.
+
+- 🇳🇬 Based in Lagos, Nigeria  
+- 🔭 Currently building: **IoT Monitoring Platform & AI-enabled Matchmaking Systems**  
+- 📫 Reach me: [adewuyiaby@gmail.com](mailto:adewuyiaby@gmail.com)  
+- 🧪 Exploring: **Rust**, **TypeScript**, **LLMs for Healthcare & Translation**  
+- 🤝 Open to collabs in: AI, Scalable Backends, Social Impact Projects  
+
+---
+
+## 🚀 Core Expertise
+
+| Domain                  | Tools / Skills                                                                 |
+|------------------------|--------------------------------------------------------------------------------|
+| **AI & ML**            | MLOps, Transformers, Deep Learning, NLP, Monte Carlo, PyTorch, TensorFlow      |
+| **Backend Dev**        | Node.js, Flask, REST APIs, Websockets, Docker, PostgreSQL, Redis, CI/CD        |
+| **Data Engineering**   | SQL, Pandas, NumPy, Data Warehousing, Real-time Ingestion, Feature Engineering |
+| **Frontend**           | React, Next.js, Tailwind, TypeScript                                           |
+| **Dev & Ops**          | GitHub Actions, Docker Compose, Scalable Microservices                         |
+| **Languages**          | Python, JavaScript, R, C++, TypeScript, Rust                                   |
+
+---
+
+## 🧩 Selected Projects
+
+- 🩺 **[Breast Cancer Prediction Model](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)**  
+  Logistic regression model for early cancer diagnosis with 88% accuracy.  
+  
+- 🧠 **[DataWorks (in progress)](https://github.com/AdewuyiDaniels)**  
+  Smart Flask-based data warehouse API with NLP task categorization & insight generation.
+  
+- 🛠️ **[IoT Monitoring & Alerts System](https://github.com/AdewuyiDaniels)**  
+  Real-time dashboard to track & maintain IoT-enabled devices (Next.js + Flask backend).
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/AdewuyiDaniels" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdewuyiDaniels&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdewuyiDaniels&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://streak-stats.demolab.com/?user=AdewuyiDaniels&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdewuyiDaniels&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/AdewuyiDaniels" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abayomiadewuyidaniel/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.x.com/JewishDaniels" target="_blank">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="http://www.medium.com/@adewuyiaby" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </p>
+
+---
+
+## ⚡ Fun Fact
+
+> I blend the scientific rigor of machine learning with the art of system design — while also being obsessed with translating African context into tech innovation.
+
+---
+
