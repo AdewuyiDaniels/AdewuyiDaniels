@@ -153,23 +153,60 @@ Visionary technology leader with 5+ years of experience architecting AI-driven s
 
 ## 📈 **Strategic Focus Areas**
 
-```mermaid
-mindmap
-  root((Strategic Focus))
-    AI Innovation
-      Healthcare Applications
-      Financial Inclusion
-      Agricultural Tech
-    Product Leadership
-      Team Development
-      Technical Strategy
-      Market Expansion
-    African Tech Ecosystem
-      Talent Development
-      Infrastructure Building
-      Knowledge Sharing
-🤝 Let's Connect & Collaborate
+<table align="center">
+<tr>
+<td align="center" width="33%">
 
+### 🤖 **AI Innovation**
+Healthcare Applications<br>
+Financial Inclusion<br>
+Agricultural Technology
+
+</td>
+<td align="center" width="33%">
+
+### 👥 **Product Leadership**
+Team Development<br>
+Technical Strategy<br>
+Market Expansion
+
+</td>
+<td align="center" width="33%">
+
+### 🌍 **African Tech Ecosystem**
+Talent Development<br>
+Infrastructure Building<br>
+Knowledge Sharing
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abayomiadewuyidaniel/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adewuyiaby@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/JewishDaniels)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@adewuyiaby)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Abayomi-Adewuyi)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 **"Building tomorrow's solutions with today's most advanced technologies"**
+
+*Currently open to consulting opportunities, technical advisory roles, and collaborative projects in AI, fintech, and African tech innovation.*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AdewuyiDaniels&color=00D8FF&style=for-the-badge)
+
+</div>
 
 <div align="center">
 💡 "Building tomorrow's solutions with today's most advanced technologies"
