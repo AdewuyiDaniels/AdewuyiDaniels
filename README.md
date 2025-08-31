@@ -1,89 +1,156 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Abayomi Daniel Adewuyi 👋</h1>
+# Abayomi Daniel Adewuyi
+**Chief Technology Officer | AI Architect | Product Strategist**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="120" alt="Animated gif"/>
-</p>
-
-<p align="center">
-  <b>Full Stack AI Engineer | Deputy CTO | Backend Developer</b><br>
-  Building intelligent systems and leading tech strategy across Data, AI, and Infrastructure.
-</p>
-
----
-
-## 🧠 About Me
-
-I'm a results-driven **Machine Learning Engineer** and **Backend Specialist** with deep expertise in **Applied AI**, **ML Ops**, and **Data-Driven Systems**. With a strong background in software architecture and innovation leadership, I focus on building scalable, intelligent solutions for real-world problems — especially across **Africa's unique data landscapes**.
-
-- 🇳🇬 Based in Lagos, Nigeria  
-- 🔭 Currently building: **IoT Monitoring Platform & AI-enabled Matchmaking Systems**  
-- 📫 Reach me: [adewuyiaby@gmail.com](mailto:adewuyiaby@gmail.com)  
-- 🧪 Exploring: **Rust**, **TypeScript**, **LLMs for Healthcare & Translation**  
-- 🤝 Open to collabs in: AI, Scalable Backends, Social Impact Projects  
-
----
-
-## 🚀 Core Expertise
-
-| Domain                  | Tools / Skills                                                                 |
-|------------------------|--------------------------------------------------------------------------------|
-| **AI & ML**            | MLOps, Transformers, Deep Learning, NLP, Monte Carlo, PyTorch, TensorFlow      |
-| **Backend Dev**        | Node.js, Flask, REST APIs, Websockets, Docker, PostgreSQL, Redis, CI/CD        |
-| **Data Engineering**   | SQL, Pandas, NumPy, Data Warehousing, Real-time Ingestion, Feature Engineering |
-| **Frontend**           | React, Next.js, Tailwind, TypeScript                                           |
-| **Dev & Ops**          | GitHub Actions, Docker Compose, Scalable Microservices                         |
-| **Languages**          | Python, JavaScript, R, C++, TypeScript, Rust                                   |
-
----
-
-## 🧩 Selected Projects
-
-- 🩺 **[Breast Cancer Prediction Model](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)**  
-  Logistic regression model for early cancer diagnosis with 88% accuracy.  
+<div align="center">
   
-- 🧠 **[DataWorks (in progress)](https://github.com/AdewuyiDaniels)**  
-  Smart Flask-based data warehouse API with NLP task categorization & insight generation.
-  
-- 🛠️ **[IoT Monitoring & Alerts System](https://github.com/AdewuyiDaniels)**  
-  Real-time dashboard to track & maintain IoT-enabled devices (Next.js + Flask backend).
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+the+Future+with+AI;Leading+Innovation+in+Africa's+Tech+Ecosystem;Transforming+Ideas+into+Scalable+Solutions)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🎯 **Executive Summary**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdewuyiDaniels&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <br>
-  <img src="https://streak-stats.demolab.com/?user=AdewuyiDaniels&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdewuyiDaniels&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+Visionary technology leader with 5+ years of experience architecting AI-driven systems that scale across emerging markets. Currently serving as CTO at Koolboks, where I lead cross-functional teams of 8+ engineers, manage $2M+ in technical infrastructure, and drive product strategy for 12,000+ active users across IoT, fintech, and AI platforms.
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/AdewuyiDaniels" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abayomiadewuyidaniel/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.x.com/JewishDaniels" target="_blank">
-    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="http://www.medium.com/@adewuyiaby" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-</p>
+**Core Impact Metrics:**
+- 🚀 **300% improvement** in deployment velocity through DevOps transformation
+- 📈 **50% reduction** in customer acquisition time via AI-powered decisioning
+- 💡 **65% automation** of customer support through RAG-powered chatbots
+- ⚡ **99.8% uptime** across distributed microservices architecture
 
 ---
 
-## ⚡ Fun Fact
+## 🧠 **Technical Leadership & Architecture**
 
-> I blend the scientific rigor of machine learning with the art of system design — while also being obsessed with translating African context into tech innovation.
+<details>
+<summary><strong>🏗️ System Architecture & Platform Engineering</strong></summary>
+
+- **Cloud-Native Architecture**: Led migration from monolithic to microservices using Kubernetes, Docker, and Azure
+- **API Strategy**: Architected secure, scalable APIs handling 50K+ daily transactions with 99.9% reliability
+- **Real-Time Systems**: Built IoT data processing pipelines with predictive maintenance capabilities
+- **Financial Infrastructure**: Developed PCI-DSS compliant payment processing with OAuth 2.0 security
+
+</details>
+
+<details>
+<summary><strong>🤖 AI/ML Engineering & Applied Research</strong></summary>
+
+- **MLOps Pipelines**: End-to-end ML deployment with automated retraining and model versioning
+- **NLP & RAG Systems**: Production chatbots with context-aware responses and multi-language support
+- **Predictive Analytics**: Monte Carlo simulations and statistical modeling for business intelligence
+- **Computer Vision**: Healthcare applications including 88% accuracy breast cancer prediction models
+
+</details>
+
+<details>
+<summary><strong>👥 Engineering Leadership & Team Development</strong></summary>
+
+- **Team Scaling**: Grew engineering organization from 3 to 8 members with structured hiring processes
+- **Technical Mentorship**: Established code review protocols, pair programming, and skill development programs
+- **Performance Management**: Quarterly reviews, career pathing, and 40% improvement in code quality metrics
+- **Cross-Functional Collaboration**: Led product strategy across engineering, ML, business ops, and finance teams
+
+</details>
 
 ---
 
+## 🛠️ **Technology Stack**
+
+### **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### **Backend & Infrastructure**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **Cloud & DevOps**
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### **Frontend & Product**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 🚀 **Featured Projects & Innovations**
+
+### 🏥 **[AI Healthcare Diagnostics](https://github.com/AdewuyiDaniels/Logistic-Regression-Model-for-Breast-Cancer-Prediction)**
+*Machine Learning for Medical Diagnosis*
+- **Impact**: 88% accuracy in early breast cancer detection
+- **Tech**: Logistic Regression, Scikit-learn, Statistical Analysis
+- **Outcome**: Potential to improve healthcare outcomes across underserved communities
+
+### 💳 **Enterprise FinTech Platform**
+*BNPL & Payment Processing Infrastructure*
+- **Scale**: 50K+ daily IoT transactions, 4K+ active PAYG customers
+- **Features**: Led direct debit automation, credit scoring, real-time decisioning
+- **Achievement**: 22% reduction in payment failures, 50% faster customer acquisition
+
+### 🌡️ **IoT Predictive Maintenance System**
+*Real-Time Device Monitoring & Analytics*
+- **Architecture**: Microservices with Azure Kubernetes, real-time data processing
+- **Impact**: 30% increase in device uptime through predictive algorithms
+- **Innovation**: ML-powered anomaly detection for proactive maintenance
+
+### 💬 **Enterprise RAG Chatbot**
+*AI-Powered Customer Support Automation*
+- **Integration**: Meta Graph API, WordPress REST API, NLP workflows
+- **Performance**: 65% reduction in manual support workload
+- **Technology**: Node.js, TypeScript, Natural Language Processing
+
+---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=AdewuyiDaniels&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF&icon_color=00D8FF)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AdewuyiDaniels&theme=dark&hide_border=true&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=00D8FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D8FF&sideLabels=00D8FF&dates=FFFFFF)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AdewuyiDaniels&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF)
+
+</div>
+
+---
+
+## 🎓 **Education & Continuous Learning**
+
+**🎯 Applied Artificial Intelligence Diploma** - *Baze University* (Expected 2025)  
+**🔬 B.Sc. Physics, First Class Honours** - *University of Ilorin* (2021)
+
+**Recent Certifications & Learning:**
+- Advanced MLOps and Model Deployment Strategies
+- Cloud-Native Architecture Patterns
+- Product Strategy for AI-First Companies
+- TypeScript & Modern JavaScript Ecosystem
+
+---
+
+## 🌍 **Community Impact & Recognition**
+
+### **🎤 Speaking & Jury Experience**
+- **French Tech Lagos Jury Member** (2025) - Evaluating innovative startups
+- **AI in Education Keynote** - Impact Hub Lagos with Kwame Yamgnane
+- **Medical Physics Conference** - NAMP, Lagos University Teaching Hospital
+
+### **🎯 Open Source & Community**
+- Mentoring emerging African developers in AI and backend engineering
+- Contributing to open-source ML tools and educational resources
+- Advocating for African-context AI solutions and ethical technology
+
+---
+
+## 📈 **Strategic Focus Areas**
+
+```mermaid
