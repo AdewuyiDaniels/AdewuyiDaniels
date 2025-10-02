@@ -1,5 +1,5 @@
 # Abayomi Daniel Adewuyi
-**Chief Technology Officer | AI Architect | Product Manager**
+**AI/ML Engineer | Technical Product Manager**
 
 <div align="center">
   
@@ -10,7 +10,7 @@
 
 ## 🎯 **Executive Summary**
 
-Visionary technology leader with 5+ years of experience architecting AI-driven systems that scale across emerging markets. Currently serving as CTO at Koolboks, where I lead cross-functional teams of 8+ engineers, manage $2M+ in technical infrastructure, and drive product strategy for 12,000+ active users across IoT, fintech, and AI platforms.
+5+ years of experience architecting AI-driven systems that scale across emerging markets. Currently serving as CTO at Koolboks, where I lead cross-functional teams of 8+ engineers, manage technical infrastructure, and drive product strategy for 8,000+ active users across IoT, fintech, and AI platforms.
 
 **Core Impact Metrics:**
 - 🚀 **300% improvement** in deployment velocity through DevOps transformation
